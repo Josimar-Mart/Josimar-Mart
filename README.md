@@ -9,7 +9,6 @@
 
 
 
-
 <h3> :rocket: &nbsp;My Skills </h3>
 
 **Applications and data**
