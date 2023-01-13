@@ -5,7 +5,7 @@
 </p>
 
 
-/* [![card](https://github-readme-stats.vercel.app/api?username=Josimar-Mart&theme=merko)](https://github.com/Josimar-Mart/) */
+> [![card](https://github-readme-stats.vercel.app/api?username=Josimar-Mart&theme=merko)](https://github.com/Josimar-Mart/) 
 
 
 
