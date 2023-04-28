@@ -15,7 +15,7 @@
 
  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node](https://raw.githubusercontent.com/Josimar-Mart/Icon/main/nodejs_original_wordmark_logo_icon_146412.ico?token=GHSAT0AAAAAAB3UZT6MSIP45IOMXTEP6UAGY5XP3HA)
+  ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
