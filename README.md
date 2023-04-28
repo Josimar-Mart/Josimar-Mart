@@ -21,6 +21,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
 
 **Utilities**
 
@@ -32,7 +33,6 @@
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   
 
