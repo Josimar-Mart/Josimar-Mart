@@ -16,12 +16,14 @@
  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+  ![PostreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+ 
 
 **Utilities**
 
